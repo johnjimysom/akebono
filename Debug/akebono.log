@@ -1,0 +1,6 @@
+﻿  akebono.cpp
+C:\Users\jimy\Documents\dev\akebono\akebono\akebono.cpp(103,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jimy\Documents\dev\akebono\akebono\akebono.cpp(129,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jimy\Documents\dev\akebono\akebono\akebono.cpp(137,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\jimy\Documents\dev\akebono\akebono\akebono.cpp(139,27): warning C4018: '<': signed/unsigned mismatch
+  akebono.vcxproj -> C:\Users\jimy\Documents\dev\akebono\akebono\Debug\akebono.exe
